@@ -1,5 +1,5 @@
-# fuzzy_biclustering
-Source code for "A fuzzy bi-clustering of users and items based on NMF for recommender systems" papre
+# fuzzy_coclustering
+Source code for "A fuzzy co-clustering of users and items based on NMF for recommender systems" papre
 
 This code uses surprise package which works with Linux OS. However, with python 3.5+ you can run this code on windows too.
 Using "interface.py" testing the algorithm is easier by modifying:
